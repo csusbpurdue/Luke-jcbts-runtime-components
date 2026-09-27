@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>About Repo</title>  
-</head>
-<body>
-  <p>This repo contains the following files: .bashrc, .zshrc, .vimrc, .gdbinit, .gitconfig, and install.sh. The first three are Runtime Componenets read by the tagged shell (e.g., bash).</p>             
-</body>
-</html>
+# About Repository 
+#
+# This repository holds Runtime Component files that are read by their system/shell. 
+# bashrc, for example, is a Runtime Component read by bash; and gitconfig is read 
+# by git. The full list of files include: .bashrc, .zshrc, .vimrc, .gdbinit, 
+# .gitconfig, and install.sh, which puts the rc files to work. 
+#  

@@ -1,10 +1,13 @@
 [user]
 	name = Luke Li
 	email = lukelijj01d@gmail.com
+
 [init]
 	defaultBranch = main
+
 [core]
-	editor = vim
+	editor = nano
+
 [pull]
 	rebase = true
 
